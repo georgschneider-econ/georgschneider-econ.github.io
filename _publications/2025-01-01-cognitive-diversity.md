@@ -9,4 +9,4 @@ venue: ''
 citation: 'Evans, D. and Schneider, G. &quot;Does Teamwork Undermine the Wisdom of the Crowds in Investing?&quot; <i>Work in progress.</i>'
 ---
 
-We experimentally measure the effect of diverse modes of cognitive processing on group investment performance.
+Experimentally measuring the effect of teamwork formats on group investment performance.
