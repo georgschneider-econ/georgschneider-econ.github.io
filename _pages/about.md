@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the University of Bonn (Bonn Graduate School of Economics), and I recently visited Yale University as a visiting Ph.D. student. I am on the economics job market in 2026–2027.
+I am a Ph.D. candidate in Economics at the University of Bonn (Bonn Graduate School of Economics), and I recently visited Yale University as a visiting Ph.D. student.
+
+**I am on the economics job market in 2026–2027.**
 
 I study financial decision-making in the context of labor market dynamics and teamwork, using applied microeconomic and experimental methods.
 
