@@ -5,7 +5,7 @@ category: work-in-progress
 permalink: /publication/2025-01-01-cognitive-diversity
 excerpt: 'With Daniel Evans.'
 date: 2025-01-01
-venue: 'Work in progress'
+venue: ''
 citation: 'Evans, D. and Schneider, G. &quot;Cognitive Diversity and Team Performance.&quot; <i>Work in progress.</i>'
 ---
 

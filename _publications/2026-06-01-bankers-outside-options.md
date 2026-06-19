@@ -5,7 +5,7 @@ category: working-papers
 permalink: /publication/2026-06-01-bankers-outside-options
 excerpt: '<b>Job Market Paper.</b> With Valentin Kecht.'
 date: 2026-06-01
-venue: 'Working paper'
+venue: ''
 paperurl: 'https://georgschneider-econ.github.io/files/Schneider_Bankers_Outside_Options.pdf'
 citation: 'Kecht, V. and Schneider, G. (2026). &quot;Bankers&apos; Outside Options and Financial Risk.&quot; <i>Working paper.</i>'
 ---

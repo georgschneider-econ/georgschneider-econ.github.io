@@ -1,7 +1,7 @@
 ---
 title: "The (Non-)Neutrality of Value-Added Taxation"
 collection: publications
-category: working-papers
+category: pre-phd
 permalink: /publication/2023-01-01-vat-neutrality
 excerpt: 'With Frank St&auml;hler and Georg U. Thunecke. CESifo Working Paper No. 9663.'
 date: 2023-01-01
