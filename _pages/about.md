@@ -13,6 +13,8 @@ I am a Ph.D. candidate in Economics at the University of Bonn (Bonn Graduate Sch
 
 I study financial decision-making in the context of labor market dynamics and teamwork, using applied microeconomic and experimental methods.
 
+My advisors are [Thomas Dohmen](https://www.econ.uni-bonn.de/iame/en/team/directory/professors/thomas-dohmen) and [Farzad Saidi](https://www.farzadsaidi.com/).
+
 ## Job Market Paper
 
 *Bankers' Outside Options and Financial Risk* (with [Valentin Kecht](https://www.valentinkecht.com/home))
