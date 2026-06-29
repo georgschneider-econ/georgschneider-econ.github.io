@@ -3,7 +3,7 @@ title: "The (Non-)Neutrality of Value-Added Taxation"
 collection: publications
 category: pre-phd
 permalink: /publication/2023-01-01-vat-neutrality
-excerpt: 'With <a href="https://sites.google.com/site/fstaehler/">Frank St&auml;hler</a> and <a href="https://georgthunecke.com/">Georg U. Thunecke</a>. CESifo Working Paper No. 9663.'
+excerpt: 'With <a href="https://sites.google.com/site/fstaehler/">Frank St&auml;hler</a> and <a href="https://sites.google.com/view/georgthunecke/home">Georg U. Thunecke</a>. CESifo Working Paper No. 9663.'
 date: 2023-01-01
 venue: 'CESifo Working Paper No. 9663'
 paperurl: 'https://georgschneider-econ.github.io/files/Schneider_Stahler_Thunecke_VAT.pdf'
