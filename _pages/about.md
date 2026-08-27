@@ -23,7 +23,7 @@ My advisors are [Thomas Dohmen](https://www.econ.uni-bonn.de/iame/en/team/direct
 This paper documents that bankers' labor market outside options shape risk-taking in the financial industry. We construct a bank-level measure based on hiring dynamics at connected financial institutions using granular employment histories and predetermined coworker links. Improved outside options predict faster growth in non-investment-grade lending, bank risk, and systemic risk. Individual loans shift toward riskier borrowers without compensating spreads and experience worse subsequent outcomes. Evidence from individually matched bankers shows that the risk response is concentrated among younger, more mobile bankers and that outside options reduce the separation penalty following poor loan performance. We also provide complementary evidence from investment advisers, where better outside options translate into more misconduct cases and weaker ensuing employment penalties. The results are consistent with outside options diluting the disciplining force of dismissals and provide a labor-market channel connecting procyclical outside options to credit supply.
 </div>
 
-[Download the job market paper here](/files/Schneider_Bankers_Outside_Options.pdf)
+[Download the job market paper here](/files/Kecht_Schneider_2026_Bankers_Outside_Options.pdf)
 
 You can read more on my [research page](/publications/) and download my [CV](/files/CV_Georg_Schneider.pdf).
 
