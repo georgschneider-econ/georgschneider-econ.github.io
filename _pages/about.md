@@ -26,9 +26,3 @@ Firms can discipline workers through the threat of termination, but the value of
 </div>
 
 [Download the job market paper here](/files/Kecht_Schneider_2026_Bankers_Outside_Options.pdf)
-
-## Contact
-
-- Email: [georg.schneider@uni-bonn.de](mailto:georg.schneider@uni-bonn.de)
-- Affiliation: Bonn Graduate School of Economics, [University of Bonn](https://www.econ.uni-bonn.de/en/department/doctoral-students/georg-schneider) and [CRC TR 224](https://www.crctr224.de/people/members-alphabetical-order/georg-schneider)
-- [LinkedIn](https://www.linkedin.com/in/schneider-g/) · [Bluesky](https://bsky.app/profile/ggschneider.bsky.social)
