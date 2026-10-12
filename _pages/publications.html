@@ -32,6 +32,9 @@ author_profile: true
       {% if post.excerpt %}
         <p class="pub-note">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
       {% endif %}
+      {% if post.presentations %}
+        <p class="pub-note">{{ post.presentations }}</p>
+      {% endif %}
       <div class="pub-abstract">
         {{ post.content }}
       </div>

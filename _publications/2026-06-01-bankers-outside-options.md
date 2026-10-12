@@ -1,9 +1,10 @@
 ---
 title: "Bankers' Outside Options and Financial Risk"
 collection: publications
-category: working-papers
+category: job-market-paper
 permalink: /publication/2026-06-01-bankers-outside-options
-excerpt: 'Job Market Paper. With [Valentin Kecht](https://www.valentinkecht.com/home).'
+excerpt: 'With [Valentin Kecht](https://www.valentinkecht.com/home).'
+presentations: 'Presentations include 2026 MFA, 2025 AFFI, 2025 EALE Job Market Tour.'
 date: 2026-06-01
 venue: ''
 paperurl: 'https://georgschneider-econ.github.io/files/Kecht_Schneider_2026_Bankers_Outside_Options.pdf'
