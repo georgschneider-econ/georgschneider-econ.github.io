@@ -9,8 +9,6 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at the University of Bonn (BGSE), and I recently visited Yale University as a visiting Ph.D. student.
 
-**I am on the economics job market in 2026–2027.**
-
 I study financial decision-making in the context of labor market dynamics and teamwork, using applied microeconomic and experimental methods.
 
 My advisors are [Thomas Dohmen](https://www.econ.uni-bonn.de/iame/en/team/directory/professors/thomas-dohmen), [Farzad Saidi](https://www.farzadsaidi.com/) and [Amelie Schiprowski](https://www.econ.uni-bonn.de/de/personen/professorinnen/amelie-schiprowski).
