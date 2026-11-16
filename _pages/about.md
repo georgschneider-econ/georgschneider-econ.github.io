@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the University of Bonn (BGSE), and I recently visited Yale University as a visiting Ph.D. student.
+I am a postdoctoral researcher at the [Baffi Centre](https://baffi.unibocconi.eu) of Bocconi University, where I work in the ERC project INFINITY on the origins of financial fragility. I am completing my Ph.D. in Economics at the University of Bonn (BGSE) and expect to defend in February 2027. In the fall of 2025, I was a visiting Ph.D. student at Yale University.
 
 I study financial decision-making in the context of labor market dynamics and teamwork, using applied microeconomic and experimental methods.
 
