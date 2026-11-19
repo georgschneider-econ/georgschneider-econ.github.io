@@ -62,6 +62,12 @@
   margin-bottom: 0.4em;
 }
 
+/* JEL codes follow the keywords in the same line. If the line is too long,
+   the whole JEL block moves to the next line instead of breaking apart. */
+.jel {
+  white-space: nowrap;
+}
+
 /* Main column width on wide screens.
    The theme sets .page (welcome page, single pages) to 83.05% of #main with
    4.24% left padding and 16.95% right padding, a text column of 61.86%.
