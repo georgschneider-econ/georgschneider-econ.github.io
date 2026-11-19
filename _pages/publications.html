@@ -28,6 +28,9 @@ author_profile: true
         {% else %}
           {{ post.title }}
         {% endif %}
+        {% if post.title_note %}
+          ({{ post.title_note }})
+        {% endif %}
       </h3>
       {% if post.excerpt %}
         <p class="pub-note">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
