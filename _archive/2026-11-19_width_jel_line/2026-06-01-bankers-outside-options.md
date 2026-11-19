@@ -1,0 +1,17 @@
+---
+title: "Bankers' Outside Options and Financial Risk"
+collection: publications
+category: working-papers
+title_note: 'Job Market Paper'
+permalink: /publication/2026-06-01-bankers-outside-options
+excerpt: 'With [Valentin Kecht](https://www.valentinkecht.com/home).'
+presentations: 'Presentations include 2026 MFA, 2025 AFFI, 2025 EALE Job Market Tour.'
+date: 2026-06-01
+venue: ''
+paperurl: 'https://georgschneider-econ.github.io/files/Kecht_Schneider_2026_Bankers_Outside_Options.pdf'
+citation: 'Kecht, V. and Schneider, G. (2026). "Bankers&apos; Outside Options and Financial Risk." <i>Working paper.</i>'
+---
+
+Firms can discipline workers through the threat of termination, but the value of continued employment depends on job opportunities in the external labor market. We study how bankers' outside options affect risky lending. Using granular employment histories and predetermined coworker links, we construct a time-varying bank-level measure of outside options from hiring at connected financial institutions. A standard-deviation improvement in outside options shifts loans toward borrowers with greater ex-ante and realized risk without detectable compensating loan spreads and raises non-investment-grade lending growth by 1.6 to 3.0 percentage points. Measures of bank and systemic risk also increase. Among individually matched bankers, outside options increase borrower risk and weaken the separation penalty following poor loan performance. The risk response is concentrated among younger bankers, who are more mobile. Financial advisors exhibit a similar pattern of increased misconduct followed by weaker employment penalties under improved outside options. The evidence indicates that workplace discipline is dependent on external labor market conditions, transmitting labor market fluctuations into credit risk.
+
+**Keywords:** Financial Stability, Risk, Labor Markets, Outside Options &emsp; <span class="jel">**JEL Classification:** G21, G24, J62, D82, G01</span>

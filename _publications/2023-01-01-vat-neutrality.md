@@ -12,4 +12,5 @@ citation: 'Schneider, G., St&auml;hler, F., and Thunecke, G. U. (2023). &quot;Th
 
 The value-added tax (VAT) is commonly regarded to be non-distortionary due to its de jure trade neutrality. We analyze the effects of the VAT on trade in final goods in the European Union (EU) from 1988 to 2019, and we find that the VAT is de facto non-neutral. Using a gravity approach, we show that a one percentage point VAT increase implies a 5.45% reduction of foreign imports relative to internal trade. While institutional quality, EU accession, and preferential Common Market access cannot explain the over-proportionate reduction in imports, we provide evidence that foreign firm exit drives non-neutrality.
 
-**Keywords:** Value-added taxation, trade neutrality, discrimination, border adjustment &emsp; <span class="jel">**JEL Classification:** F10, F14, H24</span>
+**Keywords:** Value-added taxation, trade neutrality, discrimination, border adjustment<br>
+**JEL Classification:** F10, F14, H24
